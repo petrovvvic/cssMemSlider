@@ -1,0 +1,29 @@
+* {
+    background: #181818;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: nowrap;
+    flex: 1 1 0;
+}
+
+.slider {
+    width: 100%;
+}
+
+.slider-item {
+    width: 100%;
+}
+
+.item-image {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.main-content {
+    background: green;
+    height: 400px;
+    margin: 40px 10%;
+}
